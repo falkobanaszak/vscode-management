@@ -1,2 +1,5 @@
 # vscode-management
-A GitHub repository which I use to provide scripts and infos on how I manage my Visual Studio Code Stack with Git, Github and Markdown
+Find the following here
+- Shell Scripts I use to organize my Visual Studio Code, Git and Markdown stack
+- The Visual Studio Code Extensions I use
+- A copy of a Markdown cheat-sheet
