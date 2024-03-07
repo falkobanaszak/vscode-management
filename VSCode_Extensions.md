@@ -1,0 +1,13 @@
+# Visual Studio Code Extensions I use
+- Doxc/ODT Viewer
+- Git Graph
+- Git History
+- indent-rainbow
+- Live Server
+- Open
+- PowerShell
+- vscode-icons
+- vscode-pdf
+- Markdown All In One
+- markdownlint
+- Markdown Emoji
